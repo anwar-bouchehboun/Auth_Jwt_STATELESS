@@ -141,6 +141,4 @@ Les principales dépendances incluent :
 - La durée de validité du token JWT est de 30 minutes
 - Les mots de passe sont encodés avant stockage
 - La configuration CORS est désactivée pour le développement
-```
-
 
